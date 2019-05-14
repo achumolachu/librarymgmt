@@ -1,0 +1,4 @@
+stfname:anu
+dept:cs
+clg:mcet
+
